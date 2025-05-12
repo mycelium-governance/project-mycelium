@@ -1,0 +1,30 @@
+name: Update Contributors
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    types: [closed]
+
+jobs:
+  update:
+    if: github.event.pull_request.merged == true || github.event_name == 'push'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get contributors
+        id: contributors
+        run: |
+          echo "## 🧑‍💻 Contributors\n" > CONTRIBUTORS.md
+          git shortlog -sne HEAD | sort -r >> CONTRIBUTORS.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "mycelium-bot"
+          git config user.email "bot@mycelium.local"
+          git add CONTRIBUTORS.md
+          git commit -m "🔄 Auto-update CONTRIBUTORS.md"
+          git push

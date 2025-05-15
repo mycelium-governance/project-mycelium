@@ -6,11 +6,12 @@ This repository contains all documentation, agreements, and processes that guide
 
 ## 🌱 What is Project Mycelium?
 
-Project Mycelium is a collaborative calendar and task platform built to grow like a mycelial network — decentralized, responsive, and open to all.
+Project Mycelium is a collaborative task platform built to grow like a mycelial network — decentralized, responsive, and open to all.
 
 ## ⚖️ Profit Sharing Model
 
-- **40%** reserved for the Founder
+- **30%** reserved for the Founder
+- **10%** shared among Project Representitives
 - **50%** shared among Contributors
 - **10%** allocated to the Treasury (for infrastructure, outreach, etc.)
 

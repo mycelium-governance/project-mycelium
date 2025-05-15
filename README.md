@@ -3,6 +3,34 @@
 Welcome to the governance hub of **Project Mycelium** — an open-source platform built on the principles of transparency, fairness, and collective ownership.
 This repository contains all documentation, agreements, and processes that guide how contributors are rewarded and how decisions are made.
 
+# 🌱 Welcome to Project Mycelium
+
+**Project Mycelium exists to bring coders together — no matter your level of experience.**  
+Here, you don’t need credentials or prestige. You need curiosity, drive, and a willingness to learn alongside others.
+
+We believe that many people in the coding space never get the chance to apply their skills in a real, meaningful project.  
+**Project Mycelium is built to change that** — to offer everyone a place to contribute, grow, and build something bigger than themselves.
+
+---
+
+## 👣 Where We're At
+
+We are still laying the foundation:  
+our **architecture**, **values**, **governance**, and **culture**.
+
+This means **almost everything is open to change** — shaped by the people who show up and contribute.
+
+> *This isn’t just a project. It’s a foundation by the people, for the people.*
+
+---
+
+## ✅ What We Ask From You
+
+- Have a basic idea of what area you want to contribute to  
+  _(e.g., design, frontend, backend, documentation, governance, etc.)_
+- Bring a collaborative spirit and a desire to improve
+- Participate with openness and respect
+
 ## 🌱 What is Project Mycelium?
 
 Project Mycelium is a collaborative task platform inspired by the structure and intelligence of natural mycelial networks—the underground root systems of fungi that facilitate communication, nutrient exchange, and mutual support in ecosystems.

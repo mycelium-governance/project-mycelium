@@ -27,7 +27,10 @@ Full breakdown: [profit-distribution.md](./profit-distribution.md)
 
 - [Code of Conduct](./code-of-conduct.md)
 - [Roles & Responsibilities](./roles.md)
+  
+## 🏛️ Governance
 
+- [Governance Process & Extensions](./governance-extensions.md)
 ---
 
 For issues or proposals, feel free to [open a GitHub issue](https://github.com/YOUR_ORG/mycelium-governance/issues).

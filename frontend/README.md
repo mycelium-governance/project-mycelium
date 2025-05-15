@@ -1,9 +1,8 @@
-
 ---
 
 ## 📁 `frontend/README.md`
 
-```md
+````md
 # 🖥️ Project Mycelium – Frontend
 
 This is the React-based frontend for Project Mycelium.
@@ -21,3 +20,5 @@ This is the React-based frontend for Project Mycelium.
 cd frontend
 npm install
 npm run dev
+```
+````

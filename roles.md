@@ -14,6 +14,20 @@ This document outlines the different contributor roles within **Project Mycelium
 
 ---
 
+## 🎙️ Project Representatives
+
+Project Representatives promote, manage, and support the public presence and partnerships of a specific project.
+
+**Responsibilities include:**
+- Community management
+- Outreach and social media
+- Partnerships and sponsorships
+- Moderation or public demos
+
+**Share in revenue:** 10% (split among active representatives)
+
+---
+
 ## 🧑‍💻 Core Contributors
 
 > Active team members who regularly contribute to the codebase, design, or infrastructure.

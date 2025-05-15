@@ -3,8 +3,8 @@
 Welcome to the governance hub of **Project Mycelium** — an open-source platform built on the principles of transparency, fairness, and collective ownership.
 This repository contains all documentation, agreements, and processes that guide how contributors are rewarded and how decisions are made.
 
-
 ## 🌱 What is Project Mycelium?
+
 Project Mycelium is a collaborative task platform inspired by the structure and intelligence of natural mycelial networks—the underground root systems of fungi that facilitate communication, nutrient exchange, and mutual support in ecosystems.
 
 Much like its biological counterpart, Project Mycelium is designed to be:
@@ -21,8 +21,6 @@ Much like its biological counterpart, Project Mycelium is designed to be:
 
 Project Mycelium is not just a platform—it’s an ecosystem for cooperation, where contributors co-create value and shape its future together. It empowers communities to self-organize, share resources, and build sustainably without relying on centralized gatekeepers.
 
-
-
 ## ⚖️ Profit Sharing Model
 
 - **30%** reserved for the Founder
@@ -30,34 +28,45 @@ Project Mycelium is not just a platform—it’s an ecosystem for cooperation, w
 - **50%** shared among Contributors
 - **10%** allocated to the Treasury (for infrastructure, outreach, etc.)
 
-
-Full breakdown: [profit-distribution.md](./profit-distribution.md)
-
+Full breakdown: [profit-distribution.md](./docs/profit-distribution.md)
 
 ## 📄 Agreements & Contributions
 
 - [Contributor Agreement Template](./AGREEMENT_TEMPLATE.pdf)
 
-
 - [Contributor Form (sign-up)](https://docs.google.com/forms/d/e/1FAIpQLSctIFIYWTs7Map4rujeA_DoNn0XftSlQIRi76rx9imspaZ5eQ/viewform)
 
-
-- [Current Contributors](./CONTRIBUTORS.md)
-
+- [Current Contributors](./docs/CONTRIBUTORS.md)
 
 ## 📚 Documents
 
-- [Code of Conduct](./code-of-conduct.md)
+- [Code of Conduct](./docs/code-of-conduct.md)
 
-- [Roles & Responsibilities](./roles.md)
+- [Roles & Responsibilities](./docs/roles.md)
 
 ## 🏛️ Governance
 
-- [Governance Process & Extensions](./governance-extensions.md)
+- [Governance Process & Extensions](./docs/governance-extensions.md)
 
 ---
 
+## 🔗 Repos & Structure
 
+- `frontend/` – Web interface built in React
+- `backend/` – API and contribution tracking logic
+- `discord-bot/` – Coordination bot (Python)
+- `scripts/` – Automation & scoring logic
+- `docs/` – Governance, structure, contribution models
 
+## 🚀 Get Started
+
+```bash
+# Clone
+git clone https://github.com/mycelium-governance/project-mycelium.git
+
+# Install frontend and backend deps
+cd frontend && npm install
+cd ../backend && npm install
 
 For issues or proposals, feel free to [open a GitHub issue](https://github.com/YOUR_ORG/mycelium-governance/issues).
+```

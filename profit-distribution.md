@@ -10,7 +10,7 @@ Project Mycelium follows a transparent and automated revenue-sharing model that 
 - **Contributors** – 50%  
   Shared among all active and past contributors, based on measurable impact (lines of code, commits, design assets, etc.).
 
-  - **Project Representatives** – 10%
+- **Project Representatives** – 10%
  Individuals promoting, managing partnerships, doing outreach, or supporting community growth for specific projects.
 
 - **Treasury** – 10%  

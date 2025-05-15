@@ -67,6 +67,6 @@ git clone https://github.com/mycelium-governance/project-mycelium.git
 # Install frontend and backend deps
 cd frontend && npm install
 cd ../backend && npm install
+```
 
 For issues or proposals, feel free to [open a GitHub issue](https://github.com/YOUR_ORG/mycelium-governance/issues).
-```

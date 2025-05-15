@@ -27,6 +27,31 @@ We use a combination of:
 - Manual reporting (via Google Form)
 - Code ownership analysis tools
 
+  ## 📈 Contribution Scoring System
+
+To fairly allocate the contributor revenue share, Mycelium uses a **weighted scoring system** based on objective metrics and peer review.
+
+### 🧮 Contribution Categories
+
+- **Code**: Commits, pull requests, code quality.
+- **Design/UI**: Delivered and accepted design assets.
+- **Documentation**: Content updates or additions.
+- **Community**: Community support, moderation, outreach.
+- **Initiatives**: Proposals, feature leadership.
+
+### 📊 Weighting Table
+
+| Category         | Weight (%) |
+|------------------|------------|
+| Technical (Code) | 40%        |
+| Design & UX      | 20%        |
+| Docs & Content   | 15%        |
+| Community & Ops  | 15%        |
+| Initiative Bonus | 10%        |
+
+> Scores are tallied quarterly to determine the share of the 50% contributor pool each person receives.
+
+
 ## 📆 Distribution Frequency
 
 Payouts and reporting are done **quarterly**, or more frequently if revenue exceeds a certain threshold (to be defined in governance).

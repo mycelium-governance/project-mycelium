@@ -14,7 +14,7 @@ To be included here:
 
 | Name              | GitHub Handle     | Role            | Share % | Joined On  |
 |-------------------|-------------------|------------------|---------|------------|
-| *Mammonga*        | `@Mammonga`       | Founder          | 40%     | 2025-05-12 |
+| *Mammonga*        | `@Mammonga`       | Founder          | 30%     | 2025-05-12 |
 | *Contributor 1*   | `@contributor1`   | Frontend Dev     | TBD     | YYYY-MM-DD |
 | *Contributor 2*   | `@contributor2`   | Backend Dev      | TBD     | YYYY-MM-DD |
 | *Contributor 3*   | `@contributor3`   | Designer         | TBD     | YYYY-MM-DD |

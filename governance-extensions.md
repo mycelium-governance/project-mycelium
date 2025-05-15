@@ -1,102 +1,76 @@
-🏛️ Governance Process
+# 🏛️ Governance Process & Extensions
 
-Project Mycelium operates with a participatory governance model. Key decisions are made collaboratively, with input from contributors, representatives, and the founder.
+This document outlines the governance flow, contribution scoring system, and treasury oversight policies that ensure Project Mycelium remains transparent, fair, and community-driven.
 
-🔄 Decision-Making Flow
+---
 
-Proposal Creation
+## 🧭 Governance Process
 
-Any contributor can draft a proposal using the Proposal Template.md.
+Project Mycelium operates under a **participatory governance model**, where decisions are proposed, discussed, and voted on by active members of the community.
 
-Proposals are submitted via GitHub Issues or a governance form.
+### 🔄 Decision-Making Flow
 
-Discussion Period
+1. **Proposal Creation**
+   - Contributors submit proposals using the `Proposal Template.md`.
+   - Proposals are submitted via GitHub Issues or a governance form.
 
-7-day public feedback period on Discord and GitHub.
+2. **Discussion Period**
+   - 7-day open comment window on Discord and GitHub.
+   - Community feedback is encouraged.
 
-Community discussion encouraged.
+3. **Voting**
+   - **Core Contributors**: 1 vote  
+   - **Project Representatives**: 2 votes  
+   - **Founder**: Tie-breaker only  
+   - Voting is tracked via GitHub or Snapshot (if using Web3 tools).
 
-Voting
+4. **Implementation**
+   - Approved proposals are assigned an owner and timeline.
+   - Updates are added to the project roadmap.
 
-Active contributors and representatives vote using a weighted system:
+---
 
-Core Contributors: 1 vote
+## 📈 Contribution Scoring System
 
-Project Representatives: 2 votes
+To fairly allocate the contributor revenue share, Mycelium uses a **weighted scoring system** based on objective metrics and peer review.
 
-Founder: Tie-breaker only (if deadlock)
+### 🧮 Contribution Categories
 
-Votes are logged via GitHub or Snapshot (for Web3 integration).
+- **Code**: Commits, pull requests, code quality.
+- **Design/UI**: Delivered and accepted design assets.
+- **Documentation**: Content updates or additions.
+- **Community**: Community support, moderation, outreach.
+- **Initiatives**: Proposals, feature leadership.
 
-Implementation
+### 📊 Weighting Table
 
-Approved proposals are assigned an owner and a timeline.
+| Category         | Weight (%) |
+|------------------|------------|
+| Technical (Code) | 40%        |
+| Design & UX      | 20%        |
+| Docs & Content   | 15%        |
+| Community & Ops  | 15%        |
+| Initiative Bonus | 10%        |
 
-Changes are reflected in the public roadmap.
+> Scores are tallied quarterly to determine the share of the 50% contributor pool each person receives.
 
-📈 Contribution Scoring System
+---
 
-To fairly distribute rewards among contributors, Project Mycelium uses a contribution score based on objective and peer-reviewed metrics.
+## 🏦 Treasury Oversight Policy
 
-🧮 Contribution Metrics
+The Treasury receives 10% of project revenue to fund future growth, community incentives, and stability efforts.
 
-Code: # of commits, lines changed (weighted by complexity)
+### 🔐 Treasury Management
 
-Design/UI: Approved assets submitted
+- Managed by **3 elected Treasury Stewards**, rotated quarterly.
+- Stewards are responsible for:
+  - Reviewing and approving funding proposals.
+  - Publishing quarterly transparency reports.
+  - Maintaining a public spending ledger.
 
-Docs/Content: Pages created or updated
+### 💬 Community Participation
 
-Community Support: Hours logged, user feedback
+- Any contributor may submit a **micro-grant request** via a simple form.
+- All funding decisions **above $500** require contributor vote approval.
 
-Initiatives: Proposals made, features led
-
-📊 Weighting
-
-Category
-
-Weight (%)
-
-Technical (Code)
-
-40%
-
-Design & UX
-
-20%
-
-Docs & Content
-
-15%
-
-Community & Ops
-
-15%
-
-Initiative Bonus
-
-10%
-
-Final scores are scaled each quarter to determine the % of the 50% contributor pool each person receives.
-
-🏦 Treasury Oversight Policy
-
-The Treasury (10% of profits) supports long-term project growth. To ensure proper usage:
-
-🔐 Treasury Management
-
-Managed by 3 randomly elected Treasury Stewards (rotated quarterly).
-
-Stewards are responsible for:
-
-Reviewing funding proposals
-
-Publishing quarterly reports
-
-Managing an open ledger of spending
-
-💬 Community Involvement
-
-Any member can submit a micro-grant request via a simple form.
-
-All funding decisions above $500 require contributor vote approval.
-
+---

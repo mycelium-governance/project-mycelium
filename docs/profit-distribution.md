@@ -11,7 +11,7 @@ Project Mycelium follows a transparent and automated revenue-sharing model that 
   Shared among all active and past contributors, based on measurable impact (lines of code, commits, design assets, etc.).
 
 - **Project Representatives** – 10%
- Individuals promoting, managing partnerships, doing outreach, or supporting community growth for specific projects.
+  Individuals promoting, managing partnerships, doing outreach, or supporting community growth for specific projects.
 
 - **Treasury** – 10%  
   Used for:
@@ -23,6 +23,7 @@ Project Mycelium follows a transparent and automated revenue-sharing model that 
 ## 📁 Tracking Contributions
 
 We use a combination of:
+
 - GitHub commit metadata
 - Manual reporting (via Google Form)
 - Code ownership analysis tools
@@ -42,7 +43,7 @@ To fairly allocate the contributor revenue share, Mycelium uses a **weighted sco
 ### 📊 Weighting Table
 
 | Category         | Weight (%) |
-|------------------|------------|
+| ---------------- | ---------- |
 | Technical (Code) | 40%        |
 | Design & UX      | 20%        |
 | Docs & Content   | 15%        |
@@ -50,7 +51,6 @@ To fairly allocate the contributor revenue share, Mycelium uses a **weighted sco
 | Initiative Bonus | 10%        |
 
 > Scores are tallied quarterly to determine the share of the 50% contributor pool each person receives.
-
 
 ## 📆 Distribution Frequency
 

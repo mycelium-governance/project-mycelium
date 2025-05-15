@@ -17,9 +17,7 @@ Each entry should include:
 - 🧠 **Decision Method** (e.g., Consensus, Vote, Steward Approval)
 - 🔗 **Linked Proposal or Issue** (if applicable)
 
----
-
-## 📄 Log Entries
+## Examples
 
 ### 🆔 GOV-001
 - **Date**: 2025-05-15  
@@ -47,6 +45,12 @@ Each entry should include:
 - **Summary**: Assigned 5% share from contributor pool for backend setup and scoring API.  
 - **Method**: Monthly review meeting  
 - **Link**: [Governance meeting notes](./meeting-notes/2025-06-01.md)
+
+---
+
+## 📄 Log Entries
+
+
 
 ---
 

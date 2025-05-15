@@ -4,11 +4,14 @@ Project Mycelium follows a transparent and automated revenue-sharing model that 
 
 ## 📊 Distribution Breakdown
 
-- **Founder** – 40%  
+- **Founder** – 30%  
   As the initiator of the project, the founder receives a fixed share for vision, coordination, and initial build.
 
 - **Contributors** – 50%  
   Shared among all active and past contributors, based on measurable impact (lines of code, commits, design assets, etc.).
+
+  - **Project Representatives** – 10%
+ Individuals promoting, managing partnerships, doing outreach, or supporting community growth for specific projects.
 
 - **Treasury** – 10%  
   Used for:

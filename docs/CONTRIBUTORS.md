@@ -45,7 +45,7 @@ We track contributions via:
 
 - Contribution scores and profit shares are reviewed **monthly**
 - Distributions occur **quarterly**, unless otherwise proposed
-- All updates will be logged in the [Governance Log](./docs/governance-log.md)
+- All updates will be logged in the [Governance Log](./governance-log.md)
 
 ---
 

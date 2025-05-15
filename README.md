@@ -9,15 +9,15 @@ Project Mycelium is a collaborative task platform inspired by the structure and 
 
 Much like its biological counterpart, Project Mycelium is designed to be:
 
-Decentralized: There is no central authority. Decision-making, resource allocation, and coordination are distributed across a network of contributors, ensuring resilience and autonomy.
+**Decentralized:** There is no central authority. Decision-making, resource allocation, and coordination are distributed across a network of contributors, ensuring resilience and autonomy.
 
-Responsive: The system adapts in real time to the needs of its participants—whether that’s redistributing tasks, forming new working groups, or initiating governance proposals.
+**Responsive:** The system adapts in real time to the needs of its participants—whether that’s redistributing tasks, forming new working groups, or initiating governance proposals.
 
-Open to All: Anyone can join, contribute, and be rewarded. Whether you're a developer, designer, researcher, or community builder, your work is recognized and valued.
+**Open to All:** Anyone can join, contribute, and be rewarded. Whether you're a developer, designer, researcher, or community builder, your work is recognized and valued.
 
-Transparent: All governance processes, task flows, and financial distributions are documented and visible to the community.
+**Transparent:** All governance processes, task flows, and financial distributions are documented and visible to the community.
 
-Collectively Owned: Value created is shared fairly through a profit-sharing model, and major decisions are made collaboratively.
+**Collectively Owned:** Value created is shared fairly through a profit-sharing model, and major decisions are made collaboratively.
 
 Project Mycelium is not just a platform—it’s an ecosystem for cooperation, where contributors co-create value and shape its future together. It empowers communities to self-organize, share resources, and build sustainably without relying on centralized gatekeepers.
 

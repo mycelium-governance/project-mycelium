@@ -1,54 +1,48 @@
-# React + TypeScript + Vite
+# Mycelium - Governance Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This folder contains the frontend of the Mycelium-governance project – an open-source platform built on the principles of transparency, fairness, and collective ownership
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Decentralized**: There is no central authority. Decision-making, resource allocation, and coordination are distributed across a network of contributors, ensuring resilience and autonomy.
 
-## Expanding the ESLint configuration
+- **Responsive**: The system adapts in real time to the needs of its participants—whether that’s redistributing tasks, forming new working groups, or initiating governance proposals.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- **Open to All**: Anyone can join, contribute, and be rewarded. Whether you're a developer, designer, researcher, or community builder, your work is recognized and valued.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- **Transparent**: All governance processes, task flows, and financial distributions are documented and visible to the community.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- **Collectively Owned**: Value created is shared fairly through a profit-sharing model, and major decisions are made collaboratively.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Tech Stack
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+- **Frontend**:
+  - Framework: [React](https://react.dev/) with [Vite](https://vitejs.dev/) for a fast development environment.
+  - UI: [TailwindCSS](https://tailwindcss.com/) for styling and flexibility in design.
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/mycelium-governance/project-mycelium
+   cd frontend
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+### MVP feature
+
+- [] Dashboard

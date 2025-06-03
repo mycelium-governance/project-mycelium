@@ -2,7 +2,7 @@
 
 This folder contains the frontend of the Mycelium-governance project – an open-source platform built on the principles of transparency, fairness, and collective ownership
 
-## Features
+## Features ✨
 
 - **Decentralized**: There is no central authority. Decision-making, resource allocation, and coordination are distributed across a network of contributors, ensuring resilience and autonomy.
 
@@ -14,7 +14,7 @@ This folder contains the frontend of the Mycelium-governance project – an open
 
 - **Collectively Owned**: Value created is shared fairly through a profit-sharing model, and major decisions are made collaboratively.
 
-## Tech Stack
+## ⚙ Tech Stack
 
 - **Frontend**:
   - Framework: [React](https://react.dev/) with [Vite](https://vitejs.dev/) for a fast development environment.
@@ -43,6 +43,86 @@ This folder contains the frontend of the Mycelium-governance project – an open
    npm run dev
    ```
 
-### MVP feature
+### 🚀 MVP features
 
-- [] Dashboard
+- [ ] 🖥️Dashboard
+
+  - Show user stats (tasks completed, PRs merged)
+  - Display project-wide stats (e.g. number of contributors, open issues)
+  - Notifications for proposals or task mentions
+
+- [ ] 📋Tasks
+
+  - Fetch and list GitHub issues by label (good first issue, frontend, docs, etc.)
+  - Filters for task type or difficulty
+  - Button/link to claim or view task on GitHub
+
+- [ ] 👤Profile
+
+  - Show user’s GitHub handle + avatar
+  - Track individual contributions
+  - Display scoring summary (once implemented)
+
+- [ ] 🏛️Governance
+
+  - List current proposals (manual or linked to GitHub Discussions)
+  - Status display: Open / Passed / Failed
+  - Link to relevant discussion or vote
+
+- [ ]📝 About/Docs (Optional)
+
+  - Static page: explain project vision, how to contribute, link to GitHub + Discord
+  - Can pull from existing markdown files in /docs
+
+- [ ] 🛠️ Tech Notes
+  - Keep logic minimal (MVP) — focus on structure and routing
+  - GitHub API usage recommended for tasks/contributions
+  - Use dummy data where real integration isn’t ready yet
+
+### 📂Folder Structure
+
+```
+├── frontend/
+├── README.md
+└── project-mycelium/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── pages/
+    │   ├── Dashboard
+    │   ├── Governance
+    │   ├── Profile
+    │   └── Tasks
+    ├── public/
+    │   └── vite.svg
+    ├── src/
+    │   ├── App.css
+    │   ├── App.tsx
+    │   ├── assets
+    │   ├── index.css
+    │   ├── main.tsx
+    │   └── vite-env.d.ts
+    ├── tsconfig.app.json
+    ├── tsconfig.json
+    ├── tsconfig.node.json
+    └── vite.config.ts
+```
+
+### 📄Agreements & contributors
+
+- Signup on the contributor Form [sign-up](https://docs.google.com/forms/d/e/1FAIpQLSctIFIYWTs7Map4rujeA_DoNn0XftSlQIRi76rx9imspaZ5eQ/viewform)
+
+### 📚Documents
+
+- [Roles and responsibilities](https://github.com/mycelium-governance/project-mycelium/blob/main/docs/roles.md)
+
+### 🧩 How to Contribute
+
+Project Mycelium is a space where coders of all levels come together to learn, grow, and build.
+
+- ✅ Browse tasks in our GitHub issues [Github issue](https://github.com/mycelium-governance/project-mycelium/issues)
+- ✅ Comment to self-assign
+- ✅ Submit a PR or ask for help in a dev channel
+- ✅ All work counts — code, design, writing, docs
